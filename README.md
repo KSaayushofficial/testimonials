@@ -20,20 +20,6 @@ npm install
 3️⃣ Start the development server:
 npm start
 
-🛠 Usage:
-Import and use the Testimonials component in your project:
-import Testimonials from './components/Testimonials';
-
-function App() {
-  return (
-    <div>
-      <h1>What Our Users Say</h1>
-      <Testimonials />
-    </div>
-  );
-}
-export default App;
-
 🏗 Component Code Structure:
 📂 components/Testimonials.js – Core testimonials component.
 📂 data/testimonials.js – Sample testimonials data.
